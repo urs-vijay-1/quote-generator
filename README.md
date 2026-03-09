@@ -10,7 +10,7 @@ A modern **Quote Generator Web App** that displays random inspirational quotes w
 
 ## 🌐 Live Demo
 
-🔗quote-generator-lemon-delta.vercel.app
+🔗https://quote-generator-lemon-delta.vercel.app/
 
 ---
 
